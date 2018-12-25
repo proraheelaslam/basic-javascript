@@ -2,11 +2,11 @@
 
 This repository include the basic concept of JavaScript
 ## Table of Contents
-* [About javascript](https://github.com/proraheelaslam/#about-javascript)
-* [Logical Operator](https://github.com/proraheelaslam/#logical-operator)
-* [Ternary Operator](https://github.com/proraheelaslam/#ternary-operator)
-* [Comparison Operator](https://github.com/proraheelaslam/#comparison-operator)
-* [Assignment Operator](https://github.com/proraheelaslam/#assignment-operator)
+* [About javascript](https://github.com/proraheelaslam/basic-javascript/#about-javascript)
+* [Logical Operator](https://github.com/proraheelaslam/basic-javascript/#logical-operator)
+* [Ternary Operator](https://github.com/proraheelaslam/basic-javascript/#ternary-operator)
+* [Comparison Operator](https://github.com/proraheelaslam/basic-javascript/#comparison-operator)
+* [Assignment Operator](https://github.com/proraheelaslam/basic-javascript/#assignment-operator)
 
 ### About JavaScript
 JavaScript is most popular  and widely used programming language in world,It’s growing faster than any other programming languages and big companies like Netflix, Walmart and paypal build entire applications in JavaScript.

@@ -15,7 +15,7 @@ Average salary of JavaScript in united states  $72000 a year, so it’s good opp
 
 ### Logical Operator
 
-Logical operators(  (||)  ( &&)  (!)  ) are used with Boolean, when they are used with boolean to return boolean, if they used with non-boolean it's may return non-boolean.
+Logical operators ```(  (||)  ( &&)  (!)  )``` are used with Boolean, when they are used with boolean to return boolean, if they used with non-boolean it's may return non-boolean.
 
 if value can be converted into true is so called truly and if value can be converted into false so called falsy. 
 
@@ -32,8 +32,8 @@ These are falsy values in JavaScript, anything that's not falsy is truly.
 
 Logical expression are evaluated from left to right, they are tested for "short circuit" evaluation for following rules:
 
-* false && (anything) is short circuit evaluated to false.
-* true || (anything) is short evaluated to true
+* false ```&&``` (anything) is short circuit evaluated to false.
+* true ```||``` (anything) is short evaluated to true
 #### Converting AND into OR
      
 ```
